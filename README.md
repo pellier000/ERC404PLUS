@@ -1,7 +1,7 @@
 # ERC404PLUS
 🚨🚨 This version of ERC404+ improvment has not yet been fully tested or audited. While we've made efforts to develop a robust and functional smart contract, there may still be undiscovered vulnerabilities or issues that could potentially lead to unexpected behavior or loss of funds. By using this type of contract on mainnet you use it at your own risk. 🚨🚨
 
-***IMPORTANT NOTE***
+***:warning:IMPORTANT NOTE***
 
 ERC404+ represents an enhanced iteration of the initial ERC404 protocol pioneered by 0xacme, accessible via the repository [@0xacme](https://github.com/0xacme/ERC404). 
 
