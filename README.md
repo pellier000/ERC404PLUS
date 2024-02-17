@@ -9,7 +9,7 @@ Our contributions to this project have been entirely voluntary, devoid of direct
 
 **CHANGELOG**
 
-**FORGE (ERC404+) v.1.1 BETA**
+**FORGE (ERC404+) v1.1 BETA**
 - Implement an array to store burning IDs. Upon the burning of an NFT, append its ID to this array. Upon completion of the minting process for all NFTs, retrieve IDs from this array for utilization.
 - Integrate a recyclable NFT logic by extracting the burning mechanism from the contract. Rather than burning NFTs, immobilize them within the contract. Following the minting completion of all NFTs, recycle them from the contract rather than initiating a new minting process. This methodology is devised to eliminate the necessity for gas optimization.
 
