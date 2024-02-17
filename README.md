@@ -3,7 +3,7 @@
 
 **IMPORTANT NOTE**
 
-ERC404+ represents an enhanced iteration of the initial ERC404 protocol pioneered by 0xacme, accessible via the repository: https://github.com/0xacme/ERC404. 
+ERC404+ represents an enhanced iteration of the initial ERC404 protocol pioneered by 0xacme, accessible via the repository [@0xacme](https://github.com/0xacme/ERC404). 
 
 Our contributions to this project have been entirely voluntary, devoid of direct affiliation with the creators of ERC404. We are committed to providing consistent updates, rectifications, and enhancements. Your contributions to the project, in any capacity and at any juncture, are wholeheartedly welcomed.
 
