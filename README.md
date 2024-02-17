@@ -1,19 +1,19 @@
 # ERC404PLUS
 🚨🚨 This version of ERC404+ improvment has not yet been fully tested or audited. While we've made efforts to develop a robust and functional smart contract, there may still be undiscovered vulnerabilities or issues that could potentially lead to unexpected behavior or loss of funds. By using this type of contract on mainnet you use it at your own risk. 🚨🚨
 
-#IMPORTANT NOTE
+**IMPORTANT NOTE**
 
 ERC404+ represents an enhanced iteration of the initial ERC404 protocol pioneered by 0xacme, accessible via the repository: https://github.com/0xacme/ERC404. 
 
 Our contributions to this project have been entirely voluntary, devoid of direct affiliation with the creators of ERC404. We are committed to providing consistent updates, rectifications, and enhancements. Your contributions to the project, in any capacity and at any juncture, are wholeheartedly welcomed.
 
-#CHANGELOG
+**CHANGELOG**
 
 **FORGE (ERC404+) v1.1 BETA**
 - Implement an array to store burning IDs. Upon the burning of an NFT, append its ID to this array. Upon completion of the minting process for all NFTs, retrieve IDs from this array for utilization.
 - Integrate a recyclable NFT logic by extracting the burning mechanism from the contract. Rather than burning NFTs, immobilize them within the contract. Following the minting completion of all NFTs, recycle them from the contract rather than initiating a new minting process. This methodology is devised to eliminate the necessity for gas optimization.
 
-#LICENSING
+**LICENSING**
 
 This software is released under the MIT License.
 
