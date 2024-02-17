@@ -7,7 +7,7 @@ ERC404+ represents an enhanced iteration of the initial ERC404 protocol pioneere
 
 Our contributions to this project have been entirely voluntary, devoid of direct affiliation with the creators of ERC404. We are committed to providing consistent updates, rectifications, and enhancements. Your contributions to the project, in any capacity and at any juncture, are wholeheartedly welcomed.
 
-***:technologist: CHANGELOG***
+:technologist: ***CHANGELOG***
 
 **FORGE (ERC404+) v1.1 BETA**
 - Implement an array to store burning IDs. Upon the burning of an NFT, append its ID to this array. Upon completion of the minting process for all NFTs, retrieve IDs from this array for utilization.
